@@ -1,0 +1,7 @@
+apiVersion: top-service.operator.booz.com/v1
+kind: TopServiceOperator
+metadata:
+  name: example-topserviceoperator
+spec:
+  # Add fields here
+  size: 3
